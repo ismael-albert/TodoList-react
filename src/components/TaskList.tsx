@@ -3,7 +3,7 @@ import { useState } from "react";
 import "../styles/tasklist.scss";
 
 import { FiTrash, FiCheckSquare } from "react-icons/fi";
-
+  
 interface Task {
   id: number;
   title: string;
